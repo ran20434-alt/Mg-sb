@@ -20,10 +20,10 @@ loop = asyncio.new_event_loop()
 asyncio.set_event_loop(loop)
 
 # === CONFIG ===
-PERMANENT_OWNER = None
+PERMANENT_OWNER = 1557482540921655367
 PREFIX = "!"
 BOT_OWNER_ID = None
-TOKEN = os.getenv("DISCORD_TOKEN", "").strip()
+TOKEN = os.getenv("MTU1NTYyOTM4Mzg5MTU1MDI4Mw.GQhstf.48FF2YTqF85VZG9PG_NRazPLXq9ZSnQZfonofo", "").strip()
 
 
 
